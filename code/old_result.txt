@@ -1,0 +1,402 @@
+Toss 1 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 2 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 3 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 4 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 5 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 6 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 7 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 8 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 9 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 10 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 11 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 12 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 13 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 14 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 15 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 16 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 17 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 18 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 19 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 20 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 21 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 22 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 23 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 24 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 25 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 26 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 27 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 28 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 29 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 30 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 31 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 32 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 33 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 34 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 35 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 36 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 37 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 38 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 39 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 40 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 41 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 42 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 43 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 44 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 45 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 46 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 47 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 48 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 49 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 50 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 51 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 52 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 53 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 54 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 55 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 56 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 57 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 58 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 59 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 60 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 61 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 62 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 63 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 64 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 65 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 66 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 67 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 68 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 69 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 70 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 71 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 72 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 73 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 74 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 75 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 76 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 77 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 78 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 79 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 80 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 81 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 82 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 83 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 84 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 85 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 86 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 87 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 88 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 89 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 90 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 91 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 92 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 93 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 94 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 95 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 96 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 97 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 98 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 99 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 100 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 101 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 102 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 103 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 104 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 105 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 106 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 107 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 108 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 109 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 110 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 111 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 112 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 113 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 114 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 115 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 116 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 117 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 118 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 119 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 120 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 121 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 122 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 123 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 124 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 125 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 126 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 127 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 128 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 129 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 130 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 131 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 132 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 133 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 134 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 135 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 136 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 137 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 138 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 139 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 140 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 141 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 142 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 143 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 144 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 145 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 146 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 147 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 148 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 149 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 150 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 151 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 152 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 153 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 154 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 155 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 156 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 157 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 158 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 159 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 160 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 161 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 162 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 163 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 164 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 165 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 166 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 167 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 168 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 169 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 170 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 171 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 172 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 173 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 174 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 175 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 176 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 177 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 178 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 179 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 180 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 181 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 182 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 183 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 184 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 185 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 186 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 187 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 188 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 189 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 190 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 191 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 192 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 193 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 194 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 195 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 196 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 197 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): H
+Toss 198 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): T
+Toss 199 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): H
+Toss 200 - Initial toss is T.
+Enter toss result (T or H, anything else to exit): T
+Toss 201 - Initial toss is H.
+Enter toss result (T or H, anything else to exit): O
